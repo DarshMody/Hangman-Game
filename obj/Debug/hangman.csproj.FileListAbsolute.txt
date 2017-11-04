@@ -1,0 +1,7 @@
+C:\Users\Darsh\source\repos\hangman\hangman\obj\Debug\hangman.csprojResolveAssemblyReference.cache
+C:\Users\Darsh\source\repos\hangman\hangman\obj\Debug\hangman.csproj.CoreCompileInputs.cache
+C:\Users\Darsh\source\repos\hangman\hangman\bin\Debug\hangman.exe.config
+C:\Users\Darsh\source\repos\hangman\hangman\bin\Debug\hangman.exe
+C:\Users\Darsh\source\repos\hangman\hangman\bin\Debug\hangman.pdb
+C:\Users\Darsh\source\repos\hangman\hangman\obj\Debug\hangman.exe
+C:\Users\Darsh\source\repos\hangman\hangman\obj\Debug\hangman.pdb
